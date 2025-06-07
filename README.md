@@ -1,2 +1,3 @@
 # Mini-Project-Working-with-function
-Mini Project-Working with function
+## Mini Project-Working with function
+### In this mini-project, I learned how to use functions in shell scripting to organize and streamline code, improving both readability and maintainability. I encapsulated key tasks such as checking if a script has an argument, verifying if AWS CLI is installed, and ensuring the AWS authentication environment variable is set into separate, well-named functions. This approach not only makes the code cleaner but also aligns with real-world best practices. I also learned how to use shell commands like command -v, conditional statements with if and the -z flag, and how to manage AWS credentials using the AWS_PROFILE environment variable. By calling each function clearly at the end of the script, I achieved a modular structure that is easier to test, reuse, and troubleshoot.
